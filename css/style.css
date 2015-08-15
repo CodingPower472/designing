@@ -13,3 +13,7 @@ h1 {
 img {
   border-radius: 100%;
 }
+
+.what-i-do {
+  list-style: none;
+}
