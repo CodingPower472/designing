@@ -1,7 +1,6 @@
 {
-    "name": "designing",
-    "dependencies": {
-        "angular": "",
-        "bootstrap": ""
-    }
+  "name": "designing",
+  "dependencies": {
+    "bootstrap": "3.3.5"
+  }
 }

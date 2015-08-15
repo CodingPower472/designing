@@ -1,7 +1,0 @@
-concatOnSave = true;
-
-output = js/scripts.min.js
-
-minify = true;
-
--js/*.js

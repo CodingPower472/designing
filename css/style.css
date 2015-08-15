@@ -1,0 +1,15 @@
+body {
+  background-color: ghostwhite;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #272525;
+}
+
+img {
+  border-radius: 100%;
+}
